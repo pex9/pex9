@@ -20,7 +20,9 @@ My name is Davide, and I’m currently a part-time student studying Software Eng
 <details>
   <summary>Stats</summary>
   <br>
-  [![pex9's GitHub stats](https://github-readme-stats.vercel.app/api?username=pex9)](https://github.com/pex9/github-readme-stats)
+  <a href="https://github.com/pex9/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=pex9" alt="pex9's GitHub Stats">
+  </a>
 </details>
 
 
