@@ -22,6 +22,7 @@ My name is Davide, and I’m currently a part-time student studying Software Eng
   <br>
   <a href="https://github.com/pex9/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=pex9" alt="pex9's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pex9&layout=compact" align="top" />
   </a>
 </details>
 
