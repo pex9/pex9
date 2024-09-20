@@ -17,11 +17,15 @@ My name is Davide, and I’m currently a part-time student studying Software Eng
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 </p>
 
+<details>
+  <summary>Stats</summary>
+  <br>
+  [![pex9's GitHub stats](https://github-readme-stats.vercel.app/api?username=pex9)](https://github.com/pex9/github-readme-stats)
+</details>
 
-REACT / JS / TS / HTML / CSS / RUST / JAVA / KOTLIN / SQL 
 
-[![pex9's GitHub stats](https://github-readme-stats.vercel.app/api?username=pex9)](https://github.com/pex9/github-readme-stats)
 
 ### Socials
-
+<p align="left"> <a href="https://www.github.com/pex9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/davide-pellegrino-53609a221/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
