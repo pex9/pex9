@@ -1,8 +1,6 @@
 ## Hi there 👋
-My name is Davide, and I’m currently a part-time student studying Software Engineering at Polytechnic of Turin. I enjoy coding and learning new languages and tools, especially working with cloud technologies and exploring modern development frameworks.
-- 👨‍💻 Finishing my Master Degree in Software Engineering at Polytechnic of Turin
-- 🧑🏻‍🎓 Bachelor degree in Computer Engineering at Polytechnic of Turin <br>
-
+My name is Davide. I recently graduated with a Master’s degree in Software Engineering from the Polytechnic University of Turin, where I also earned my Bachelor’s degree in Computer Engineering. I’m now working as a software developer.
+I enjoy coding and constantly exploring new programming languages, tools, and modern development frameworks. I'm particularly passionate about cloud technologies and building scalable, efficient solutions.
 ### Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
