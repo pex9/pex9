@@ -31,7 +31,7 @@ I enjoy coding and constantly exploring new programming languages, tools, and mo
 <p align="left"> <a href="https://www.github.com/pex9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/davide-pellegrino-53609a221/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="mailto:davidepellegrino88@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="40" height="40" />
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png](https://it.wikipedia.org/wiki/File:Gmail_icon_%282026%29.svg)" alt="Gmail" width="40" height="40" />
 </a>
 </p>
  
