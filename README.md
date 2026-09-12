@@ -38,7 +38,7 @@ I enjoy coding and constantly exploring new programming languages, tools, and mo
   </a>
 
   <a href="mailto:davidepellegrino88@gmail.com">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="30" height="30" alt="Gmail">
+    <img src="https://cdn.simpleicons.org/gmail" width="30" height="30" alt="Gmail">
   </a>
 </p>
 
