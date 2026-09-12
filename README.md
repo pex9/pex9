@@ -26,16 +26,6 @@ I enjoy coding and constantly exploring new programming languages, tools, and mo
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-<details>
-  <summary>Stats</summary>
-  <br>
-  <a href="https://github.com/pex9/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=pex9" alt="pex9's GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pex9&layout=compact" align="top" />
-  </a>
-</details>
-
-
 
 ### Socials
 <p align="left"> <a href="https://www.github.com/pex9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
